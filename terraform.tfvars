@@ -1,3 +1,3 @@
-ami-id = "ami-0d473344347276854"
+ami-id = "ami-068e0f1a600cd311c"
 instance_type = "t2.micro"
 key_name = "new"
