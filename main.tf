@@ -5,7 +5,7 @@ resource "aws_instance" "dev" {
     associate_public_ip_address = true
     subnet_id = "subnet-0422bd258abc3a983"
     tags = {
-      Name = "dev_ec2"
+      Name = "dev"
     }
     
 }
